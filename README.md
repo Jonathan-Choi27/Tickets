@@ -15,7 +15,7 @@
 
 ## About The Project
 
-The goal of this project is to develop a barebones ticketing app and explore the backend of how a microservices instrustructure style app works. The app can create, update, remove and buy tickets.
+The goal of this project is to develop a barebones ticketing app and explore the backend of how a microservices instrustructure style app works. The app can create, update, remove and buy tickets. The app connects to a Google Cloud Kubernetes Engine and uses a local Docker to switch contexts.
 
 ## Tests Status
 ![Status 1](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-auth.yml/badge.svg?event=pull_request)
