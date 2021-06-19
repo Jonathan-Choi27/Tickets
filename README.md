@@ -19,9 +19,9 @@ The goal of this project is to develop a barebones ticketing app and explore the
 
 ## Tests Status
 ![Status 1](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-auth.yml/badge.svg?event=pull_request)
-![Status 2](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-orders.yml/badge.svg)
-![Status 3](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-payments.yml/badge.svg)
-![Status 4](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-tickets.yml/badge.svg)
+![Status 2](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-orders.yml/badge.svg?event=pull_request)
+![Status 3](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-payments.yml/badge.svg?event=pull_request)
+![Status 4](https://github.com/Jonathan-Choi27/Tickets/actions/workflows/tests-tickets.yml/badge.svg?event=pull_request)
 
 ## Contributors
 - Jonathan Choi
